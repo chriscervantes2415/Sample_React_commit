@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/Sample_React_commit/static/css/main.88404e20.css",
+    "main.js": "/github.io/Sample_React_commit/static/js/main.0beebb1d.js",
+    "static/js/787.c5ca4160.chunk.js": "/github.io/Sample_React_commit/static/js/787.c5ca4160.chunk.js",
+    "index.html": "/github.io/Sample_React_commit/index.html",
+    "main.88404e20.css.map": "/github.io/Sample_React_commit/static/css/main.88404e20.css.map",
+    "main.0beebb1d.js.map": "/github.io/Sample_React_commit/static/js/main.0beebb1d.js.map",
+    "787.c5ca4160.chunk.js.map": "/github.io/Sample_React_commit/static/js/787.c5ca4160.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88404e20.css",
+    "static/js/main.0beebb1d.js"
+  ]
+}
